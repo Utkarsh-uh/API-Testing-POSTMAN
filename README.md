@@ -6,3 +6,6 @@ Url of the project https://restful-booker.herokuapp.com/apidoc/index.html#api-Au
 ```
 
 Newman Report 
+
+<img width="889" height="798" alt="image" src="https://github.com/user-attachments/assets/0b6e1c32-3a67-4b6c-9a93-1acff7afa3cc" />
+
